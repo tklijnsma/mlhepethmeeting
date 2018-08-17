@@ -10,4 +10,4 @@ The recommended setup is:
     source mlhepenvironment/bin/activate
     pip install -r requirements.txt
 
-(This may take some time to install all the packages).
+(This may take some time to install all the packages). This will let you run most notebooks, although some need extra packages.
