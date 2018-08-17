@@ -1,0 +1,4 @@
+To run this notebook, you need a version of Pythia installed
+with specific compiler settings. See the following instructions:
+
+https://github.com/maxim-borisyak/pythia-mill

@@ -1,0 +1,5 @@
+To run this notebook, the file HIGGS.csv is needed.
+
+This file is big and thus not included in the repository.
+
+Email thomas.klijnsma@cern.ch, and I'll make it available somewhere.
